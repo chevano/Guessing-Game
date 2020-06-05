@@ -1,0 +1,5 @@
+2325424325\t	Sony\t	Vegas\t	100000\t
+6325567823\t	Smells\t	Bro-inc\t	400000\t	
+2134325355\t	Mellys\t	Tarf\t	55000000\t
+1324567907\t	Stepar\t	Las-ltd\t	9750000\t	
+3645482483\t	Rikers\t	sodun\t	5600000\t
